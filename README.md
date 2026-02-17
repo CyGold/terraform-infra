@@ -146,17 +146,3 @@ terraform destroy
 ## License
 
 MIT
-# Initialize Terraform
-terraform init
-
-# Preview changes
-terraform plan
-
-# Deploy infrastructure
-terraform apply
-
-# Get your app URL
-terraform output static_web_app_url
-
-# Get deployment token for CI/CD
-terraform output -raw deployment_token
