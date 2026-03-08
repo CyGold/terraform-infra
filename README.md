@@ -34,6 +34,7 @@ This Terraform configuration deploys an Azure Static Web App with a modular stru
    ```
 
 4. **Apply the configuration:**
+5. 
    ```bash
    terraform apply
    ```
